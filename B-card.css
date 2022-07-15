@@ -1,0 +1,31 @@
+body{
+	margin: 20px;
+	font-family:sans-serif;
+	font-size:20;
+}
+.image{
+	width:150px;
+
+}
+.card{
+	width:500px;
+	border:1px dotted fefee3;
+	padding:20px;
+	display:flex;
+	justify-content:space-around;
+	margin:0 auto;
+	text-align:center;
+	background:#284b63;
+	color:white;
+	border-bottom:6px solid #d8cefe;
+	border-radius:10px;
+	
+}
+/* Add margin & padding short-hand
+  margin: 10px [ 10px on all sides]
+  margin: 10px  20px[ 10px on the top margin, 20px on the right, 10px on the bottom, and 20px on the left margin.]
+   margin: 10px auto[   10px on top & bottom margin, auto on right & left"]
+   **and same goes for padding*/
+   
+   /* Generate colors using coolor.com*/
+   
